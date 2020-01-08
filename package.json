@@ -1,6 +1,6 @@
 {
     "name": "@framerjs/component-importer",
-    "version": "0.0.30",
+    "version": "0.0.31",
     "main": "./build/index.js",
     "types": "./build/index.d.ts",
     "repository": "git@github.com:framer/ComponentImporter.git",
