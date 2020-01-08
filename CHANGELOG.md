@@ -1,3 +1,15 @@
+## Version: v0.0.31
+
+### Changes
+
+#### Documentation
+
+ - [f19e654](https://github.com/framer/component-importer/commit/f19e654): updated changelog
+
+#### Maintenance
+
+ - [11d4ce3](https://github.com/framer/component-importer/commit/11d4ce3): bump handlebars from 4.1.2 to 4.5.3 (#4)
+
 ## Version: v0.0.30
 
 ### Changes
