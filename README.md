@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/component-importer-logo.png" width="176" height="170" alt="Component Importer" />
+  <img src="assets/component-importer-logo.png" width="88" height="85" alt="Component Importer" />
 </p>
 
 <div align="center">
